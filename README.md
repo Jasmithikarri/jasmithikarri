@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭I’m currently working on <br>analyst at Ajinomoto Foods, supporting data-driven decisions.<br><br>👯 I’m looking to collaborate on  
+🔭I’m currently working as <br>Analyst at Ajinomoto Foods, supporting data-driven decisions.<br><br>👯 I’m looking to collaborate on  
 Data engineering projects, data pipelines, ETL workflows, and analytics dashboards using tools like AWS, Snowflake, Tableau, and Power BI.
 
 🤝 I’m looking for help with  
