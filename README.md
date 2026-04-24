@@ -15,7 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭I’m currently working on <br>analyst at Ajinomoto Foods, supporting data-driven decisions.<br><br>👯I’m looking to collaborate on  <br>Data analysis, reporting, dashboards, and beginner-friendly analytics projects.<br><br>🤝I’m looking for help with  <br>Improving analytics skills, real-world data projects, and best practices in data analysis.<br><br>🌱 I’m currently learning  <br>Cloud technologies and data analytics tools.<br><br>💬 Ask me about  <br>Business analysis, SQL basics, Excel reporting, and analytics fundamentals.<br><br>⚡ Fun fact  <br>I enjoy learning new tools and improving processes step by step.
+🔭I’m currently working on <br>analyst at Ajinomoto Foods, supporting data-driven decisions.<br><br>👯 I’m looking to collaborate on  
+Data engineering projects, data pipelines, ETL workflows, and analytics dashboards using tools like AWS, Snowflake, Tableau, and Power BI.
+
+🤝 I’m looking for help with  
+Improving advanced data engineering skills, real-world pipeline optimization, and best practices in cloud data architecture and visualization.
+
+🌱 I’m currently learning  
+Advanced cloud data engineering concepts, data visualization tools like Tableau and Power BI, and scalable pipeline design.
+
+💬 Ask me about  
+Data engineering, SQL, AWS (Lambda, Glue, S3), Snowflake, ETL/ELT workflows, CI/CD pipelines, and basic reporting with Tableau and Power BI.
+
+⚡ Fun fact  
+I enjoy building efficient data systems and turning raw data into meaningful insights step by step.
 
 
 ## 🌐 Socials:
