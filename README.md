@@ -1,34 +1,21 @@
-## Hi there 👋
+🔭 **I’m currently working as**
+Software Engineer, building and maintaining modern web applications using Java, Node.js, and React.
 
-<!--
-**Jasmithikarri/jasmithikarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 **I’m looking to collaborate on**
+Full Stack development projects, scalable web applications, REST APIs, microservices, and cloud-based solutions using Java, Node.js, React, SQL, and AWS.
 
-Here are some ideas to get you started:
+🤝 **I’m looking for help with**
+Enhancing advanced full stack development skills, system design, backend architecture, performance optimization, and cloud-native application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🔭I’m currently working as <br>Analyst at Ajinomoto Foods, supporting data-driven decisions.<br><br>👯 I’m looking to collaborate on  
-Data engineering projects, data pipelines, ETL workflows, and analytics dashboards using tools like AWS, Snowflake, Tableau, and Power BI.
+🌱 **I’m currently learning**
+Advanced Full Stack development, system design, cloud technologies, microservices, DevOps practices, and modern frontend frameworks.
 
-🤝 I’m looking for help with  
-Improving advanced data engineering skills, real-world pipeline optimization, and best practices in cloud data architecture and visualization.
+💬 **Ask me about**
+Java, Node.js, React, JavaScript, REST APIs, SQL, Git, AWS, backend development, frontend development, and full stack application development.
 
-🌱 I’m currently learning  
-Advanced cloud data engineering concepts, data visualization tools like Tableau and Power BI, and scalable pipeline design.
+⚡ **Fun fact**
+I enjoy building scalable applications, solving challenging problems, and creating seamless user experiences from frontend to backend.
 
-💬 Ask me about  
-Data engineering, SQL, AWS (Lambda, Glue, S3), Snowflake, ETL/ELT workflows, CI/CD pipelines, and basic reporting with Tableau and Power BI.
-
-⚡ Fun fact  
-I enjoy building efficient data systems and turning raw data into meaningful insights step by step.
 
 
 ## 🌐 Socials:
