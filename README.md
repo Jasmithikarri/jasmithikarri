@@ -14,7 +14,7 @@ Advanced Full Stack development, system design, cloud technologies, microservice
 Java, Node.js, React, JavaScript, REST APIs, SQL, Git, AWS, backend development, frontend development, and full stack application development.
 
 ⚡ **Fun fact**
-I enjoy building scalable applications, solving challenging problems, and creating seamless user experiences from frontend to backend.
+I enjoy building scalable applications, solving challenging problems, and creating seamless user experiences from frontend to backned.
 
 
 
