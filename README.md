@@ -2,23 +2,27 @@
 
 ## 💫 About Me
 
-🔭 **I’m currently working as**  
-Software Engineer, building and maintaining modern web applications using Java, Node.js, and React.
+🔭 **I’m currently working as**
+Data Engineer, building scalable data pipelines, cloud-based data platforms, and analytics solutions using AWS, GCP, Python, and SQL.
 
-👯 **I’m looking to collaborate on**  
-Full Stack development projects, scalable web applications, REST APIs, microservices, and cloud-based applications.
+👯 **I’m looking to collaborate on**
+Data Engineering, ETL/ELT pipelines, Big Data, Data Warehousing, Cloud Data Platforms, AI/ML applications, and LLM-powered solutions.
 
-🤝 **I’m looking for help with**  
-Improving system design, backend architecture, cloud-native development, and building highly scalable applications.
+🤝 **I’m looking for help with**
+Advanced Data Engineering, distributed data processing, data architecture, real-time streaming, MLOps, Generative AI, and production-ready LLM applications.
 
-🌱 **I’m currently learning**  
-Advanced Java, Spring Boot, React.js, Node.js, Microservices, Docker, Kubernetes, AWS, and System Design.
+🌱 **I’m currently learning**
+Apache Spark, Apache Kafka, Airflow, Databricks, Snowflake, Terraform, Docker, Kubernetes, AWS, Google Cloud Platform (GCP), AI Engineering, LLMs, RAG, Vector Databases, LangChain, LangGraph, and Agentic AI.
 
-💬 **Ask me about**  
-Java, Spring Boot, Node.js, React.js, JavaScript, SQL, REST APIs, Git, AWS, and Full Stack Development.
+💬 **Ask me about**
+Python, SQL, Data Engineering, ETL/ELT, AWS, GCP, Snowflake, Apache Spark, Apache Kafka, Airflow, Data Warehousing, Docker, Kubernetes, Terraform, Git, OpenAI, LangChain, Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs).
 
-⚡ **Fun fact**  
-I enjoy turning ideas into scalable web applications and continuously learning new technologies to solve real-world problems.
+🚀 **Currently exploring**
+Building AI-powered data platforms, intelligent data pipelines, Retrieval-Augmented Generation (RAG), AI Agents, Vector Databases, Model Context Protocol (MCP), and cloud-native data architectures.
+
+⚡ **Fun fact**
+I enjoy transforming raw data into meaningful insights, building scalable data systems, and exploring how AI and Large Language Models can solve real-world business problems.
+
 
 
 ## 🌐 Socials:
